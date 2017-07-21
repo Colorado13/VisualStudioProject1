@@ -10,7 +10,7 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-
+            var i = 1;
         }
     }
 }
